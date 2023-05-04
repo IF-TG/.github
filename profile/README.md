@@ -1,12 +1,14 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
+여행 계획과 경험을 공유하고 추억으로 🎞
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+# 👥 팀원 소개
+
+| BE: 임경완 | Client: 김석현 | Client: 양승현 |
+|:--------:|:--------:|:--------:|
+| ![img](https://avatars.githubusercontent.com/u/47065431?v=4) |![img](https://avatars.githubusercontent.com/u/108918481?v=4) |![img](https://avatars.githubusercontent.com/u/96910404?s=400&u=9e3d914e4168c78643e358115a0294669793ca99&v=4) |
+ [MoonDooo](https://github.com/MoonDooo) |[letusHyun](https://github.com/letusHyun) |[SHcommit](https://github.com/SHcommit) |
+
