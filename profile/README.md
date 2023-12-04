@@ -16,7 +16,15 @@
 
 ## 🎯 프로젝트 목표
 
-...
+### BE
+
+ - 데이터베이스 스키마 설계 및 관리
+ 
+ - Elasticsearch를 활용한 검색 기능 구현
+
+ - 기본적인 CRUD 구현
+
+ - 관광지 프리뷰 기능 구현
 
 ## 📲 User flow
 
@@ -64,28 +72,30 @@
 <details>
 <summary>🧑‍💻 Backend Tech stack</summary><br/>
  
- 
- - MVC architecutre pattern
 
 ### Framework
 
 - Spring
 
-- Spring Boot 
+- Spring Boot
 
-- AWS
-
-...
+- Spring Jpa, Data
 
 ### DB
 
-- Oracle ...
+- MySql, Elasticsearch
 
-### OS
+### Development Environment
 
-- Linux
+- Intellij
+
+### WIKI
+
+ - https://github.com/IF-TG/spring/wiki
 
 </details>
+
+
 
 
 
